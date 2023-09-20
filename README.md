@@ -10,5 +10,7 @@
   <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" alt="tools_I_use">
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="GNU/Linux">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python">
+
 
 </p>
