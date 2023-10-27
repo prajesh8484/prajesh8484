@@ -3,7 +3,7 @@
 <a href="https://github.com/prajesh8484"><img src="https://img.shields.io/github/followers/prajesh8484"></a>
 <a href="https://github.com/prajesh8484"><img src="https://komarev.com/ghpvc/?username=prajesh8484&label=Profile%20views&color=green" alt="prajesh8484"></a>
 <br><br>
-<img src="" width="500">
+<img src="https://github.com/prajesh8484/prajesh8484/blob/main/assets/dinouwu.gif" width="500">
 </p>
 <hr></hr>
 <p align="center">
