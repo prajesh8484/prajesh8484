@@ -7,7 +7,7 @@
 </p>
 <hr></hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" alt="tools_I_use">
+  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-B8FFDF" alt="tools_I_use">
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
